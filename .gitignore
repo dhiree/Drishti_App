@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+.env.local
+.env
+src/common/utils/firebase_admin.json
+src/common/config/credentials.json
